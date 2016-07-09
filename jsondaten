@@ -1,0 +1,58 @@
+{
+  "modules": [
+    {
+      "id": "148918",
+      "active": "1",
+      "sensors": [
+        {
+          "id": "1",
+          "value": "12,3",
+          "timestamp": "1448026200",
+          "active": "1"
+        },
+        {
+          "id": "2",
+          "value": "10,1",
+          "timestamp": "1448026200",
+          "active": "1"
+        },
+        {
+          "id": "3",
+          "value": "24,7",
+          "timestamp": "1448026200",
+          "active": "1"
+        },
+        {
+          "id": "4",
+          "value": "32,0",
+          "timestamp": "1448026200",
+          "active": "1"
+        },
+        {
+          "id": "5",
+          "value": "8,4",
+          "timestamp": "1448026200",
+          "active": "1"
+        },
+        {
+          "id": "6",
+          "value": "0,0",
+          "timestamp": "1448026200",
+          "active": "0"
+        },
+        {
+          "id": "7",
+          "value": "0,0",
+          "timestamp": "1448026200",
+          "active": "0"
+        },
+        {
+          "id": "8",
+          "value": "0,0",
+          "timestamp": "1448026200",
+          "active": "0"
+        }
+      ]
+    }
+  ]
+}
